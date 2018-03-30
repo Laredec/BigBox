@@ -4214,7 +4214,7 @@ MonoBehaviour:
     idSkill: 4
     nombre: HachaAkiles
     tipo: arma
-    attackSpeed: 1.5
+    attackSpeed: 1.8
     rangeAttack: 2
     melee: 1
     prefabProyectil: {fileID: 164502, guid: e13834a7e0c1530468fa121adc3e188c, type: 2}
