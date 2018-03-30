@@ -1,8 +1,5 @@
 Temp/*
 Library/*
-Assets/PlayServicesResolver/Editor/JarResolverLib.dll
-Assets/PlayServicesResolver/*
-Assets/GooglePlayGames/*
 Assembly-CSharp*
 *.sln
 *.userprefs

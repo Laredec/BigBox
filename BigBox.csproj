@@ -417,7 +417,6 @@
     <None Include="Assets\GameSparks\README.txt" />
     <None Include="Assets\GameSparks\link.xml" />
     <None Include="Assets\Laredec\Pruebas(Mega)\Material\May\Shader\May_shader.shader" />
-    <None Include="Assets\Mapa\BigBOxFX\Water\WaterSample.shader" />
     <None Include="Assets\Media\Shader\Hypeful-Toon_shader-AlphaTesting.shader" />
     <None Include="Assets\Media\Shader\Hypeful-Toon_shader-Basic.shader" />
   </ItemGroup>
