@@ -1,1 +1,3 @@
-.asset
+$ cat .gitignore
+    # exclude everything except directory foo/bar
+    /Library/*
