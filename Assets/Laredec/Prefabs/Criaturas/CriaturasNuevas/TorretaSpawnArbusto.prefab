@@ -710,8 +710,8 @@ MonoBehaviour:
   posTorre: {x: 0, y: 0, z: 0}
   soyEnemigo_ok: 0
   vSprites:
-  - {fileID: 21300000, guid: 21573f810a8965844ae92d56196cd949, type: 3}
-  - {fileID: 21300000, guid: 3d96e0820b3b0ed41a4f9ddba2342001, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
   spriteRenderer: {fileID: 212980757364559986}
   modificacionXTowerCollider: 0.0001
 --- !u!114 &114719862124323620
@@ -878,6 +878,9 @@ MonoBehaviour:
   ataqueSoyEnemigo_ok: 0
   atacarNadaMasEntrar_Ok: 0
   stats: {fileID: 0}
+  areaOK: 0
+  anguloArea: 360
+  radioArea: 5
   IDPredeterminada: 14
   ataqueCriticoOk: 0
   indicadorDanyo: {fileID: 1933756078635298}
@@ -14638,7 +14641,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.46, y: 2.6}
+  m_Size: {x: 1.52, y: 1.78}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1

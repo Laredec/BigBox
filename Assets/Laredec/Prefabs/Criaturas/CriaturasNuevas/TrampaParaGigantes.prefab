@@ -1184,6 +1184,7 @@ MonoBehaviour:
   stats: {fileID: 0}
   areaOK: 0
   anguloArea: 360
+  radioArea: 5
   IDPredeterminada: 0
   ataqueCriticoOk: 0
   indicadorDanyo: {fileID: 0}
