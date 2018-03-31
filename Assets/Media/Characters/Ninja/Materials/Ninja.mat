@@ -63,7 +63,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _mask_map:
-        m_Texture: {fileID: 2800000, guid: 98d2eab46a74dcd4d8010be70ae5805e, type: 3}
+        m_Texture: {fileID: 2800000, guid: 680a12810002d4a4a867db66b87f3454, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _sss_map:
@@ -91,7 +91,7 @@ Material:
     - _fresnel_threshold: -0.25
     - _ilumination_steps: 1
     - _line_width_multiplier: 0.15
-    - _outline_lightness: -0.5
+    - _outline_lightness: -1
     - _shadow_steps: 1
     - _specular_intensity: 5
     m_Colors:

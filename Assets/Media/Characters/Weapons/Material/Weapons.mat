@@ -87,13 +87,13 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
-    - _fresnel_intensity: 1.16
+    - _fresnel_intensity: 1.94
     - _fresnel_threshold: -0.137
     - _ilumination_steps: 1
-    - _line_width_multiplier: 1
+    - _line_width_multiplier: 0.183
     - _outline_lightness: -1
     - _shadow_steps: 1
-    - _specular_intensity: 1.64
+    - _specular_intensity: 3.9
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
